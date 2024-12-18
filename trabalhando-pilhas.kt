@@ -25,4 +25,18 @@ fun main(){
     //Removendo convidado da mesa do grupo C
     mesaGrupoC.pop()
     println(mesaGrupoC)
+    
+   for(i in 1..mesaGrupoA.size()){
+		println("pop():${mesaGrupoA.pop()}")
+        println(mesaGrupoA)
+   }
+   for(i in 1..mesaGrupoB.size()){
+		println("pop():${mesaGrupoB.pop()}")
+        println(mesaGrupoB)
+   }
+   for(i in 1..mesaGrupoC.size()){
+		println("pop():${mesaGrupoC.pop()}")
+        println(mesaGrupoC)
+   }
+    
 }
