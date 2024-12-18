@@ -1,6 +1,6 @@
-/* Rodando uma Simples 
- * receita de bolo de cenoura com chocolate 
- * TESTANDO EXPRESSÕES "WHEN" E FUNÇÕES NAS CLASSES DE INFERÊNCIAS*/
+/* Rodando uma Simples receita de bolo de cenoura com chocolate 
+ * TESTANDO EXPRESSÕES "WHEN" 
+E FUNÇÕES NAS CLASSES DE INFERÊNCIAS*/
 
 class MyClass(val modoDeFazer: String)
 
