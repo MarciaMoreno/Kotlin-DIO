@@ -1,5 +1,5 @@
 fun umaMensagem(mensagem: String) {
-    print(mensagem)
+    	print(mensagem)
 }
 
 fun umaMensagemComPrefixo(mensagem: String, prefixo: String = "Info"){
@@ -8,5 +8,5 @@ fun umaMensagemComPrefixo(mensagem: String, prefixo: String = "Info"){
 
 fun main(){
 	umaMensagem("Olá! ")
-    umaMensagemComPrefixo(prefixo = "Eu quero fazer um pedido", mensagem="Por gentileza!...")
+    	umaMensagemComPrefixo(prefixo = "Eu quero fazer um pedido", mensagem="Por gentileza!...")
 }
