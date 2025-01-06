@@ -16,6 +16,6 @@ Diretório dedicado as atividades desenvolvidas durante as aulas ministradas atr
 > > >............ [Null Safety](https://kotlinlang.org/docs/null-safety.html)
 > > > >............ [Corroutines](https://kotlinlang.org/docs/coroutines-overview.html)
 > > > > >............ [Expressions](https://kotlinlang.org/docs/this-expressions.html)
-> > > > > >............  [](https://kotlinlang.org/docs/destructuring-declarations.html)
+> > > > > >............  [Declrations Destructuring](https://kotlinlang.org/docs/destructuring-declarations.html)
 
 
