@@ -5,8 +5,6 @@
 
 ![..](https://github.com/MarciaMoreno/CSS_DIO/blob/main/Captura%20de%20tela%202025-01-12%20081955.png?raw=true)
 
-![..](https://www.locaweb.com.br/blog/wp-content/uploads/2023/08/Kotlin-capa-1.jpg)
-
 # ![..](https://github.com/MarciaMoreno/MarciaMoreno/raw/main/Imagens/emoji-livro-aberto.png)(Links relevantes)
 
 => [Playground - Kotlin](https://play.kotlinlang.org/) 
